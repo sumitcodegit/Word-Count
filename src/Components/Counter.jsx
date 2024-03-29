@@ -45,6 +45,7 @@ function WordCounter() {
     setWordCount(0);
     setCharCount(0);
     setParaCount(0);
+    console.log("/////")
   };
 
   const loadData = () => {
